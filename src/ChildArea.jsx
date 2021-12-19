@@ -9,7 +9,7 @@ const style = {
 export const ChildArea = memo((props) => {
   const { open, onClickClose } = props;
   const data = [...Array(100).keys()].forEach((k) => {
-    console.log("ChildAreaがレンダリングされた。");
+    console.log("おまえはもうレンダリングされている。。。");
   });
   return (
     <>
