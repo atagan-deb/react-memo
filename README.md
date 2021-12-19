@@ -1,2 +1,2 @@
-# react-memo
+# react-typescript-getting-started
 Created with CodeSandbox
